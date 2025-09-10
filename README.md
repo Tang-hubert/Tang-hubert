@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **hubert112247@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17upqNm670B3QBFSAZwO7DYWppcCo-rfl/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ZRVc53W-jdruEOwbM_C6LhWGoAdHYbmu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
