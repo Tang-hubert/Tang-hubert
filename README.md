@@ -7,15 +7,15 @@
 
 <!-- - 🔭 I’m currently working on [daily-english-learning-Gemini](https://github.com/Tang-hubert/daily-english-learning-Gemini) -->
 
-- 🌱 I’m currently learning **Quantitative trading, C, RUST**
+- 🌱 I’m currently learning **C, RUST**
 
-- 👯 I’m looking to collaborate on **trading projects**
+- 👯 I’m looking to collaborate on **Interesting AI projects**
 
 <!-- - 🤝 I’m looking for help with [tw-fitx/fitx-trading](https://github.com/tw-fitx/fitx-trading) -->
 
 - 📫 How to reach me **hubert112247@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1vF05PpFrj_ulOfBmBt29qsJmoPsO2WwO/edit?usp=sharing&ouid=109845826698960339007&rtpof=true&sd=true)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17upqNm670B3QBFSAZwO7DYWppcCo-rfl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
