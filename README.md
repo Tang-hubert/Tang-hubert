@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Tang-hubert&label=Profile%20views&color=red&style=plastic&abbreviated=true" alt="Tang-hubert" /> </p>
 
-- 🌱 I’m currently learning **C, RUST**
+- 🌱 I’m currently learning **RUST**
 
 - 👯 I’m looking to collaborate on **Interesting AI projects**
 
