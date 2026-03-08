@@ -1,152 +1,85 @@
-# Tang-hubert GitHub Pages Repository
+# REPO_CONTEXT.md - AI Schema for This Repository
 
 ## Overview
 
-This is a personal GitHub Pages website for tracking daily tech learning records.
+This is a personal tech learning journal stored in a GitHub Pages site.
+
+## Core Rules
+
+1. **REPO_CONTEXT.md = Pure Schema Only** - This file contains ONLY rules/structure, no actual learning content
+2. **Content goes in dedicated folders** - Knowledge base files belong in `knowledge/` folder
+3. **Daily entries link to knowledge** - Daily learning files should reference detailed notes in knowledge folder
+4. **Always get user permission before pushing to GitHub**
 
 ## Repository Structure
 
 ```
-tang-hubert/
-├── notes/
-│   └── daily-learnings/
-│       ├── README.md              # Index/overview
-│       └── 2026/
-│           ├── 2026.md            # Yearly summary (ALL skills)
-│           ├── 02/
-│           │   ├── 2026-02-27.md  # Daily entry: Windows 11/BIOS
-│           │   └── 2026-02-28.md  # Daily entry: AstroNvim
-│           └── 03/
-│               ├── 2026-03-02.md  # Daily entry: OpenCode AI
-│               ├── 2026-03-06.md  # Daily entry: OpenClaw AI (Day 1)
-│               ├── 2026-03-07.md  # Daily entry: OpenClaw AI (Day 2)
-│               └── 2026-03-08.md  # Daily entry: AI Agent Architecture
-└── README.md                       # Main site README
+notes/
+├── REPO_CONTEXT.md           # THIS FILE - Schema/Rules ONLY
+├── knowledge/                # Detailed knowledge base (stackable notes)
+│   └── [topic]/
+│       ├── README.md          # Index for this topic
+│       └── *.md               # Detailed notes
+└── daily-learnings/          # Daily learning records
+    ├── README.md             # Index
+    └── YYYY/
+        ├── YYYY.md           # Yearly summary
+        └── MM/
+            └── YYYY-MM-DD.md # Daily entry
 ```
 
-## Purpose
+## File Naming
 
-- **Personal tech learning journal**: Track what technical skills are learned daily
-- **Resume/CV-friendly**: Quick overview of skills for interviews
-- **Knowledge base**: Detailed notes for future reference
+| Type | Format | Example |
+|------|--------|---------|
+| Daily Entry | `YYYY-MM-DD.md` | `2026-03-08.md` |
+| Yearly Summary | `YYYY.md` | `2026.md` |
+| Knowledge Topic | lowercase-with-dashes | `ai-agents`, `context-engineering` |
 
-## File Naming Conventions
+## Content Guidelines
 
-### Daily Entries
-- Format: `YYYY-MM-DD.md`
-- Location: `notes/daily-learnings/YYYY/MM/`
-- Example: `2026-03-07.md`
-
-### Yearly Summary
-- Format: `YYYY.md`
-- Location: `notes/daily-learnings/YYYY/`
-- Example: `2026.md`
-
-## Daily Entry Template
-
+### Daily Entry (in `daily-learnings/YYYY/MM/`)
 ```markdown
 # YYYY-MM-DD
 
 ## What I Learned
-
-- Brief description of what was learned
+- Brief summary
 
 ## Notes
-
-### Topic 1
-- Detail 1
-- Detail 2
-
-### Topic 2
-- Detail 1
-- Detail 2
+- Key points
+- Reference to knowledge folder: [[knowledge/topic/concept]]
 
 ## Tags
-#tag1 #tag2 #tag3
+#tag1 #tag2
 
 ## Resources
-- [Resource Name](url)
+- [Link](url)
 ```
 
-## Yearly Summary Template
-
+### Knowledge Note (in `knowledge/[topic]/`)
 ```markdown
-# YYYY Learning Summary
+# Concept Name
 
-## Skills Learned This Year
+## Definition
+...
 
-### Category Name
-- **Skill Name** - [MM/DD](MM/YYYY-MM-DD.md)
-  - Sub-point 1
-  - Sub-point 2
+## Key Points
+- Point 1
+- Point 2
 
-## Monthly Breakdown
+## Examples
+...
 
-| Month | Entries | Key Skills |
-|-------|---------|------------|
-| January | N | Skill 1, Skill 2 |
-
-## Total Skills This Year: N
-
-1. Skill 1
-2. Skill 2
-
----
-
-*Last updated: YYYY-MM-DD*
+## Related Daily Entries
+- [YYYY-MM-DD](../daily-learnings/2026/03/2026-03-08.md)
 ```
 
-## How to Add New Entry
+## Adding New Content
 
-1. Create new file in correct month folder: `notes/daily-learnings/YYYY/MM/YYYY-MM-DD.md`
-2. Fill in the template with content
-3. Update `notes/daily-learnings/YYYY/YYYY.md` (yearly summary)
-4. Commit and push changes
-
-## Current Skills Tracked (2026)
-
-1. Windows 11 / BIOS Configuration
-2. AstroNvim (Neovim Framework)
-3. OpenCode AI Integration
-4. OpenClaw AI Deployment
-5. Ubuntu 24.04 Linux Administration
-6. AI Agent Architecture & Best Practices
-
-## Key AI Agent Knowledge (From Learning)
-
-### Core Philosophy
-- **API Call > Agent**: Use simple API calls when possible
-- **Workflow > Agent**: Use workflow for deterministic multi-step tasks
-- **Agent**: Only when human involvement needed (aesthetic judgment, iteration)
-
-### Practical Tips
-- **Skills over Prompts**: Agent fails → add tools, not better prompts
-- **Start Simple**: Begin with basic SDK, not complex frameworks
-- **Iterate**: Add constraints based on AI behavior, not upfront
-
-### Context Engineering
-- **Planner-Executor**: Planner dispatches, Executor专注 specific tasks
-- **Filter Context**: Only show necessary info to avoid pollution
-- **Pass by Reference**: Don't pass large data, pass file IDs/pointers
-
-### Memory
-- **Internal Memory**: Current conversation only
-- **External Storage**: Persistent info (To-do, state tracking)
-
-### Debugging
-- Record **process** (not just results)
-- Track: tool call order, token consumption, redundant context
-
-## Tech Stack
-
-- **Hosting**: GitHub Pages
-- **Content**: Markdown
-- **Theme**: Custom
-
-## Contact
-
-- GitHub: https://github.com/Tang-hubert
-- Site: https://tang-hubert.github.io/
+1. **Daily learning**: Create in `daily-learnings/YYYY/MM/YYYY-MM-DD.md`
+2. **New knowledge topic**: Create folder in `knowledge/[topic]/`
+3. **Update summaries**: Link new content in `YYYY.md` yearly summary
+4. **Ask permission before GitHub push**
 
 ---
 
