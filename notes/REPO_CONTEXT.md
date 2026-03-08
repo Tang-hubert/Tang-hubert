@@ -19,7 +19,8 @@ tang-hubert/
 │           └── 03/
 │               ├── 2026-03-02.md  # Daily entry: OpenCode AI
 │               ├── 2026-03-06.md  # Daily entry: OpenClaw AI (Day 1)
-│               └── 2026-03-07.md  # Daily entry: OpenClaw AI (Day 2)
+│               ├── 2026-03-07.md  # Daily entry: OpenClaw AI (Day 2)
+│               └── 2026-03-08.md  # Daily entry: AI Agent Architecture
 └── README.md                       # Main site README
 ```
 
@@ -109,6 +110,32 @@ tang-hubert/
 3. OpenCode AI Integration
 4. OpenClaw AI Deployment
 5. Ubuntu 24.04 Linux Administration
+6. AI Agent Architecture & Best Practices
+
+## Key AI Agent Knowledge (From Learning)
+
+### Core Philosophy
+- **API Call > Agent**: Use simple API calls when possible
+- **Workflow > Agent**: Use workflow for deterministic multi-step tasks
+- **Agent**: Only when human involvement needed (aesthetic judgment, iteration)
+
+### Practical Tips
+- **Skills over Prompts**: Agent fails → add tools, not better prompts
+- **Start Simple**: Begin with basic SDK, not complex frameworks
+- **Iterate**: Add constraints based on AI behavior, not upfront
+
+### Context Engineering
+- **Planner-Executor**: Planner dispatches, Executor专注 specific tasks
+- **Filter Context**: Only show necessary info to avoid pollution
+- **Pass by Reference**: Don't pass large data, pass file IDs/pointers
+
+### Memory
+- **Internal Memory**: Current conversation only
+- **External Storage**: Persistent info (To-do, state tracking)
+
+### Debugging
+- Record **process** (not just results)
+- Track: tool call order, token consumption, redundant context
 
 ## Tech Stack
 
