@@ -10,6 +10,7 @@ This is a personal tech learning journal stored in a GitHub Pages site.
 2. **Content goes in dedicated folders** - Knowledge base files belong in `knowledge/` folder
 3. **Daily entries link to knowledge** - Daily learning files should reference detailed notes in knowledge folder
 4. **Always get user permission before pushing to GitHub**
+5. **Save Google AI Studio links** - Whenever user pastes a Google AI Studio link, ALWAYS add it to the notes (Resources section). These links contain their thinking/learning roadmap, evaluations, and research.
 
 ## Repository Structure
 
@@ -83,4 +84,4 @@ notes/
 
 ---
 
-*Last updated: 2026-03-08*
+*Last updated: 2026-03-11*
