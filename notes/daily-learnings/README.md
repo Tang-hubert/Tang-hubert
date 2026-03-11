@@ -6,8 +6,9 @@ Personal documentation of technical skills learned daily.
 
 ```
 daily-learnings/
+├── README.md              # This file - Index
 ├── 2026/
-│   ├── 2026.md          # Yearly summary
+│   ├── 2026.md          # Yearly summary (10 skills)
 │   ├── 02/              # February
 │   │   └── 2026-02-*.md
 │   └── 03/              # March
@@ -18,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 5 skills |
+| 2026 | [2026.md](2026/2026.md) | 10 skills |
 
 ## Quick Links
 
@@ -33,6 +34,15 @@ daily-learnings/
 - [2026-03-02: OpenCode AI](2026/03/2026-03-02.md)
 - [2026-03-06: OpenClaw AI - Ubuntu Install (Day 1)](2026/03/2026-03-06.md)
 - [2026-03-07: OpenClaw AI - Ubuntu Install (Day 2)](2026/03/2026-03-07.md)
+- [2026-03-08: AI Agent Architecture](2026/03/2026-03-08.md)
+- [2026-03-09: Tavily API & OpenClaw Troubleshooting](2026/03/2026-03-09.md)
+- [2026-03-10: Instagram Automation](2026/03/2026-03-10.md)
+- [2026-03-11: OpenClaw Plugins & Brave Browser](2026/03/2026-03-11.md)
+
+## Knowledge Base
+
+See also: [notes/knowledge/](../knowledge/) for detailed notes on:
+- AI Agents (core philosophy, context engineering, memory, debugging)
 
 ---
 

@@ -11,6 +11,8 @@ This is a personal tech learning journal stored in a GitHub Pages site.
 3. **Daily entries link to knowledge** - Daily learning files should reference detailed notes in knowledge folder
 4. **Always get user permission before pushing to GitHub**
 5. **Save Google AI Studio links** - Whenever user pastes a Google AI Studio link, ALWAYS add it to the notes (Resources section). These links contain their thinking/learning roadmap, evaluations, and research.
+6. **UPDATE README files** - Always update `daily-learnings/README.md` when adding new daily entries
+7. **USE knowledge/ folder for long-term notes** - Don't forget it exists! Use `knowledge/[topic]/` for stackable, reusable content that will be referenced across multiple entries
 
 ## Repository Structure
 
@@ -80,7 +82,8 @@ notes/
 1. **Daily learning**: Create in `daily-learnings/YYYY/MM/YYYY-MM-DD.md`
 2. **New knowledge topic**: Create folder in `knowledge/[topic]/`
 3. **Update summaries**: Link new content in `YYYY.md` yearly summary
-4. **Ask permission before GitHub push**
+4. **Update README**: Add new entry to `daily-learnings/README.md` index
+5. **Ask permission before GitHub push**
 
 ---
 
