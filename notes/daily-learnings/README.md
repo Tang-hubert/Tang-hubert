@@ -8,7 +8,7 @@ Personal documentation of technical skills learned daily.
 daily-learnings/
 ├── README.md              # This file - Index
 ├── 2026/
-│   ├── 2026.md          # Yearly summary (12 skills)
+│   ├── 2026.md          # Yearly summary (13 skills)
 │   ├── 02/              # February
 │   │   └── 2026-02-*.md
 │   └── 03/              # March
@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 12 skills |
+| 2026 | [2026.md](2026/2026.md) | 13 skills |
 
 ## Quick Links
 
@@ -40,6 +40,7 @@ daily-learnings/
 - [2026-03-11: OpenClaw Plugins & Brave Browser](2026/03/2026-03-11.md)
 - [2026-03-12: OpenClaw Remote Poweroff & i-En Project](2026/03/2026-03-12.md)
 - [2026-03-13: Franchise Exhibition & Business Insights](2026/03/2026-03-13.md)
+- [2026-03-14: 期交所 C++ Developer Interview](2026/03/2026-03-14.md)
 
 ## Knowledge Base
 
