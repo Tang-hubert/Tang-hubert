@@ -8,7 +8,7 @@ Personal documentation of technical skills learned daily.
 daily-learnings/
 ├── README.md              # This file - Index
 ├── 2026/
-│   ├── 2026.md          # Yearly summary (16 skills)
+│   ├── 2026.md          # Yearly summary (17 skills)
 │   ├── 02/              # February
 │   │   └── 2026-02-*.md
 │   └── 03/              # March
@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 16 skills |
+| 2026 | [2026.md](2026/2026.md) | 17 skills |
 
 ## Quick Links
 
@@ -44,6 +44,7 @@ daily-learnings/
 - [2026-03-15: AI 創業項目研究 with Willy](2026/03/2026-03-15.md)
 - [2026-03-16: Professor Hung-yi Lee's OpenClaw Projects](2026/03/2026-03-16.md)
 - [2026-03-17: OpenClaw Deep Dive - 解剖小龍蝦](2026/03/2026-03-17.md)
+- [2026-03-18: OpenCode agency-agents Setup & Google AI Pro](2026/03/2026-03-18.md)
 
 ## Knowledge Base
 
