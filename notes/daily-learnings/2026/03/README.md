@@ -20,8 +20,9 @@ Daily learning entries for March 2026.
 | 03-16 | Professor Hung-yi Lee's OpenClaw Projects |
 | 03-17 | OpenClaw Deep Dive - 解剖小龍蝦 |
 | 03-18 | OpenCode agency-agents Setup & Google AI Pro |
+| 03-19 | AGI Future, NemoClaw vs OpenClaw, Minimax Config Audit |
 
-## Skills Learned This Month: 14
+## Skills Learned This Month: 15
 
 ---
-*Last updated: 2026-03-18*
+*Last updated: 2026-03-19*
