@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 18 skills |
+| 2026 | [2026.md](2026/2026.md) | 20 skills |
 
 ## Quick Links
 
@@ -46,6 +46,7 @@ daily-learnings/
 - [2026-03-17: OpenClaw Deep Dive - 解剖小龍蝦](2026/03/2026-03-17.md)
 - [2026-03-18: OpenCode agency-agents Setup & Google AI Pro](2026/03/2026-03-18.md)
 - [2026-03-19: AGI Future, NemoClaw vs OpenClaw, Minimax Config Audit](2026/03/2026-03-19.md)
+- [2026-03-20: OpenClaw Security, Google Workspace, Moltbook Automation](2026/03/2026-03-20.md)
 
 ## Knowledge Base
 
