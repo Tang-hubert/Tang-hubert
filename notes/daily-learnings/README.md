@@ -8,7 +8,7 @@ Personal documentation of technical skills learned daily.
 daily-learnings/
 ├── README.md              # This file - Index
 ├── 2026/
-│   ├── 2026.md          # Yearly summary (18 skills)
+│   ├── 2026.md          # Yearly summary (21 skills)
 │   ├── 02/              # February
 │   │   └── 2026-02-*.md
 │   └── 03/              # March
@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 20 skills |
+| 2026 | [2026.md](2026/2026.md) | 21 skills |
 
 ## Quick Links
 
@@ -47,6 +47,7 @@ daily-learnings/
 - [2026-03-18: OpenCode agency-agents Setup & Google AI Pro](2026/03/2026-03-18.md)
 - [2026-03-19: AGI Future, NemoClaw vs OpenClaw, Minimax Config Audit](2026/03/2026-03-19.md)
 - [2026-03-20: OpenClaw Security, Google Workspace, Moltbook Automation](2026/03/2026-03-20.md)
+- [2026-03-21: gh/gh-issue Skills, OpenClaw Secrets, Skill-Learning Automation](2026/03/2026-03-21.md)
 
 ## Knowledge Base
 

@@ -22,8 +22,9 @@ Daily learning entries for March 2026.
 | 03-18 | OpenCode agency-agents Setup & Google AI Pro |
 | 03-19 | AGI Future, NemoClaw vs OpenClaw, Minimax Config Audit |
 | 03-20 | OpenClaw Security, Google Workspace, Moltbook Automation |
+| 03-21 | gh/gh-issue Skills, OpenClaw Secrets, Skill-Learning Automation |
 
-## Skills Learned This Month: 17
+## Skills Learned This Month: 18
 
 ---
-*Last updated: 2026-03-20*
+*Last updated: 2026-03-21*
