@@ -13,7 +13,7 @@ This is **Tang-hubert's personal tech learning journal**, a GitHub Pages website
 ### Core Philosophy
 
 - **Chronological Records**: Daily entries capture what was learned on each date
-- **Stackable Knowledge**: Long-term reusable content lives in `knowledge/` folder
+- **Stackable Knowledge**: Long-term reusable content lives in `notes/knowledge/` folder
 - **Linked References**: Daily entries reference knowledge folder for deep dives
 - **Human-Readable**: Well-organized for both human review and AI understanding
 
@@ -40,10 +40,10 @@ Never push to GitHub without explicit user confirmation.
 Whenever user pastes a Google AI Studio link, **ALWAYS** add it to the notes (Resources section). These links contain their thinking, learning roadmap, evaluations, and research.
 
 ### 6. UPDATE README Files
-Always update `daily-learnings/README.md` when adding new daily entries.
+Always update `notes/daily-learnings/README.md` when adding new daily entries.
 
 ### 7. USE knowledge/ Folder for Long-Term Notes
-Don't forget it exists! Use `knowledge/[topic]/` for stackable, reusable content that will be referenced across multiple entries.
+Don't forget it exists! Use `notes/knowledge/[topic]/` for stackable, reusable content that will be referenced across multiple entries.
 
 ---
 
@@ -180,12 +180,12 @@ code or example here
 ### Step-by-Step Process
 
 1. **Daily Learning Entry**
-   - Create file: `daily-learnings/YYYY/MM/YYYY-MM-DD.md`
+   - Create file: `notes/daily-learnings/YYYY/MM/YYYY-MM-DD.md`
    - Fill using Daily Entry Template
-   - Add to `knowledge/` if content is reusable
+   - Add to `notes/knowledge/` if content is reusable
 
 2. **Update Yearly Summary**
-   - Edit `daily-learnings/YYYY/YYYY.md`
+   - Edit `notes/daily-learnings/YYYY/YYYY.md`
    - Add new skill under appropriate category
    - Update monthly breakdown
    - Increment total skills count
@@ -209,7 +209,7 @@ code or example here
 - **Total Skills**: 18
 
 ### Active Knowledge Topics
-- `knowledge/ai-agents/` - AI Agent architecture, best practices, debugging
+- `notes/knowledge/ai-agents/` - AI Agent architecture, best practices, debugging
 
 ### Current Projects
 - i-En (小艾) - Instagram 全自動 AI 觀察家專案
@@ -241,11 +241,11 @@ code or example here
 
 | Action | File to Edit |
 |--------|--------------|
-| New daily entry | `daily-learnings/YYYY/MM/YYYY-MM-DD.md` |
-| Update yearly summary | `daily-learnings/YYYY/YYYY.md` |
-| Update index | `daily-learnings/README.md` |
-| Add knowledge note | `knowledge/[topic]/[note].md` |
-| Update this file | `REPO_CONTEXT.md` |
+| New daily entry | `notes/daily-learnings/YYYY/MM/YYYY-MM-DD.md` |
+| Update yearly summary | `notes/daily-learnings/YYYY/YYYY.md` |
+| Update index | `notes/daily-learnings/README.md` |
+| Add knowledge note | `notes/knowledge/[topic]/[note].md` |
+| Update this file | `notes/REPO_CONTEXT.md` |
 
 ---
 

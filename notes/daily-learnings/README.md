@@ -49,6 +49,7 @@ daily-learnings/
 - [2026-03-20: OpenClaw Security, Google Workspace, Moltbook Automation](2026/03/2026-03-20.md)
 - [2026-03-21: gh/gh-issue Skills, OpenClaw Secrets, Skill-Learning Automation](2026/03/2026-03-21.md)
 - [2026-03-22: OpenClaw Memory, i-En Project Setup, Security Learning](2026/03/2026-03-22.md)
+- [2026-03-23: OpenClaw Subagent化, Notion Schema Fix, Cron Job Optimization](2026/03/2026-03-23.md)
 
 ## Knowledge Base
 
