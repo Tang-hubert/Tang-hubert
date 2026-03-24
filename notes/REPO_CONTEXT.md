@@ -173,6 +173,8 @@ code or example here
 *Last updated: YYYY-MM-DD*
 ```
 
+> **Important**: Each daily entry in the yearly summary should include **bullet point context** summarizing key learnings, not just the title. See `2026.md` for examples.
+
 ---
 
 ## 🔄 Workflow: Adding New Content
@@ -205,15 +207,17 @@ code or example here
 ## 📊 Current Repository Status
 
 ### Latest Entry
-- **Date**: 2026-03-19
-- **Total Skills**: 18
+- **Date**: 2026-03-24
+- **Total Skills**: 24
 
 ### Active Knowledge Topics
 - `notes/knowledge/ai-agents/` - AI Agent architecture, best practices, debugging
 
 ### Current Projects
 - i-En (小艾) - Instagram 全自動 AI 觀察家專案
+- Constitution - OpenClaw Subagent Architecture Project
 - AI 創業項目研究 with Willy
+- 醫美AI客服 (pending)
 
 ---
 
@@ -249,6 +253,6 @@ code or example here
 
 ---
 
-*Last updated: 2026-03-19*
+*Last updated: 2026-03-24*
 *Maintained by: Tang-hubert*
 *For questions or clarifications, refer to this file first*
