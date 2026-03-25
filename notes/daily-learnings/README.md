@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 23 skills |
+| 2026 | [2026.md](2026/2026.md) | 25 skills |
 
 ## Quick Links
 
@@ -51,6 +51,7 @@ daily-learnings/
 - [2026-03-22: OpenClaw Memory, i-En Project Setup, Security Learning](2026/03/2026-03-22.md)
 - [2026-03-23: OpenClaw Subagent化, Notion Schema Fix, Cron Job Optimization](2026/03/2026-03-23.md)
 - [2026-03-24: OpenClaw Subagent Architecture, Constitution Project, project_ien Refactoring](2026/03/2026-03-24.md)
+- [2026-03-25: Doggy-App Launch, i-En v2.0 Refactor, MiniMax M2.7, Power Saving Research](2026/03/2026-03-25.md)
 
 ## Knowledge Base
 
