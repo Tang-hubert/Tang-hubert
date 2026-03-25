@@ -28,7 +28,7 @@ Daily learning entries for March 2026.
 | 03-24 | OpenClaw Subagent Architecture, Constitution Project, project_ien Refactoring |
 | 03-25 | Doggy-App Launch, i-En v2.0 Refactor, MiniMax M2.7, Power Saving Research |
 
-## Skills Learned This Month: 23
+## Skills Learned This Month: 21
 
 ---
 *Last updated: 2026-03-25*

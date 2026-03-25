@@ -207,8 +207,8 @@ code or example here
 ## 📊 Current Repository Status
 
 ### Latest Entry
-- **Date**: 2026-03-24
-- **Total Skills**: 24
+- **Date**: 2026-03-25
+- **Total Skills**: 25
 
 ### Active Knowledge Topics
 - `notes/knowledge/ai-agents/` - AI Agent architecture, best practices, debugging
@@ -218,6 +218,7 @@ code or example here
 - Constitution - OpenClaw Subagent Architecture Project
 - AI 創業項目研究 with Willy
 - 醫美AI客服 (pending)
+- Doggy-App - 寵物狗互動網站
 
 ---
 
@@ -230,6 +231,7 @@ code or example here
 3. **Link Everything**: Connect daily entries to knowledge folder
 4. **Preserve History**: Don't delete old entries, just add new ones
 5. **Ask First**: Confirm before any destructive or push operations
+6. **Prevent Private Data Leakage**: Never expose API keys, tokens, passwords, or personal information in any file
 
 ### Common Mistakes to Avoid
 
@@ -238,6 +240,7 @@ code or example here
 - ❌ Not saving Google AI Studio links
 - ❌ Deleting or overwriting previous entries
 - ❌ Pushing without user permission
+- ❌ Exposing private data (API keys, tokens, passwords) in any file
 
 ---
 
@@ -253,6 +256,6 @@ code or example here
 
 ---
 
-*Last updated: 2026-03-24*
+*Last updated: 2026-03-25*
 *Maintained by: Tang-hubert*
 *For questions or clarifications, refer to this file first*
