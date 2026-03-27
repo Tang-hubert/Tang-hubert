@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 26 skills |
+| 2026 | [2026.md](2026/2026.md) | 27 skills |
 
 ## Quick Links
 
@@ -53,6 +53,7 @@ daily-learnings/
 - [2026-03-24: OpenClaw Subagent Architecture, Constitution Project, project_ien Refactoring](2026/03/2026-03-24.md)
 - [2026-03-25: Doggy-App Launch, i-En v2.0 Refactor, MiniMax M2.7, Power Saving Research](2026/03/2026-03-25.md)
 - [2026-03-26: DP to HDMI, Local LLM GPU Requirements & OpenClaw Projects](2026/03/2026-03-26.md)
+- [2026-03-27: Nvidia GPU Hierarchy, Neuro-sama & OpenClaw Plugin Fix](2026/03/2026-03-27.md)
 
 ## Knowledge Base
 
