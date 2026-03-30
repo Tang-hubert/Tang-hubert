@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 29 skills |
+| 2026 | [2026.md](2026/2026.md) | 30 skills |
 
 ## Quick Links
 
@@ -56,6 +56,7 @@ daily-learnings/
 - [2026-03-27: Nvidia GPU Hierarchy, Neuro-sama & OpenClaw Plugin Fix](2026/03/2026-03-27.md)
 - [2026-03-28: IG API Verification & Pending Research Topics](2026/03/2026-03-28.md)
 - [2026-03-29: Workspace Architecture Refactoring & Orchestration Framework](2026/03/2026-03-29.md)
+- [2026-03-30: Network Troubleshooting, PET Whitepaper & i-En Cron Adjustment](2026/03/2026-03-30.md)
 
 ## Knowledge Base
 
