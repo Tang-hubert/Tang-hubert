@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 31 skills |
+| 2026 | [2026.md](2026/2026.md) | 32 skills |
 
 ## Quick Links
 
@@ -58,6 +58,9 @@ daily-learnings/
 - [2026-03-29: Workspace Architecture Refactoring & Orchestration Framework](2026/03/2026-03-29.md)
 - [2026-03-30: Network Troubleshooting, PET Whitepaper & i-En Cron Adjustment](2026/03/2026-03-30.md)
 - [2026-03-31: gog CLI Setup & Music21 Harmony Analyzer](2026/03/2026-03-31.md)
+
+#### April
+- [2026-04-01: Claude Code Leak Research, OpenClaw Optimization, Coding Mode, Skill Routing](2026/04/2026-04-01.md)
 
 ## Knowledge Base
 
