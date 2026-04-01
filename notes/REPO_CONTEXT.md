@@ -173,7 +173,9 @@ code or example here
 *Last updated: YYYY-MM-DD*
 ```
 
-> **Important**: Each daily entry in the yearly summary should include **bullet point context** summarizing key learnings, not just the title. See `2026.md` for examples.
+> **Important**: 
+> - Each daily entry in the yearly summary should include **bullet point context** summarizing key learnings, not just the title. See `2026.md` for examples.
+> - Add new entries under the **correct category section** (e.g., ### AI Agents & Tools), not just at the end before Monthly Breakdown.
 
 ---
 
@@ -188,7 +190,7 @@ code or example here
 
 2. **Update Yearly Summary**
    - Edit `notes/daily-learnings/YYYY/YYYY.md`
-   - Add new skill under appropriate category
+   - Add new skill under **appropriate category section** (e.g., ### AI Agents & Tools)
    - Update monthly breakdown
    - Increment total skills count
 
@@ -207,8 +209,8 @@ code or example here
 ## 📊 Current Repository Status
 
 ### Latest Entry
-- **Date**: 2026-03-25
-- **Total Skills**: 25
+- **Date**: 2026-04-01
+- **Total Skills**: 32
 
 ### Active Knowledge Topics
 - `notes/knowledge/ai-agents/` - AI Agent architecture, best practices, debugging
@@ -219,6 +221,9 @@ code or example here
 - AI 創業項目研究 with Willy
 - 醫美AI客服 (pending)
 - Doggy-App - 寵物狗互動網站
+- HAI_whitepaper - 產通國際集團代幣白皮書（ANA/EMT/PET）
+- Music Project - Music21 harmony analyzer (parked)
+- skill-learning - 資安學習資源自動化（GitHub private repo）
 
 ---
 
@@ -241,6 +246,7 @@ code or example here
 - ❌ Deleting or overwriting previous entries
 - ❌ Pushing without user permission
 - ❌ Exposing private data (API keys, tokens, passwords) in any file
+- ❌ Forgetting to add new entries under the correct category section in YYYY.md (e.g., ### AI Agents & Tools)
 
 ---
 
@@ -256,6 +262,6 @@ code or example here
 
 ---
 
-*Last updated: 2026-03-25*
+*Last updated: 2026-04-01*
 *Maintained by: Tang-hubert*
 *For questions or clarifications, refer to this file first*
