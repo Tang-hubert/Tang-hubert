@@ -45,6 +45,9 @@ Always update `notes/daily-learnings/README.md` when adding new daily entries.
 ### 7. USE knowledge/ Folder for Long-Term Notes
 Don't forget it exists! Use `notes/knowledge/[topic]/` for stackable, reusable content that will be referenced across multiple entries.
 
+### 8. Add New Knowledge Topics When Relevant
+When creating daily entries, check if new knowledge folders should be created under `notes/knowledge/`. Update the daily entry's "Related Knowledge" section accordingly.
+
 ---
 
 ## 📁 Repository Structure
@@ -262,6 +265,6 @@ code or example here
 
 ---
 
-*Last updated: 2026-04-01*
+*Last updated: 2026-04-02*
 *Maintained by: Tang-hubert*
 *For questions or clarifications, refer to this file first*

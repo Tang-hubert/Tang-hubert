@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 32 skills |
+| 2026 | [2026.md](2026/2026.md) | 33 skills |
 
 ## Quick Links
 
@@ -61,6 +61,7 @@ daily-learnings/
 
 #### April
 - [2026-04-01: Claude Code Leak Research, OpenClaw Optimization, Coding Mode, Skill Routing](2026/04/2026-04-01.md)
+- [2026-04-02: Work-in-Midnight 自動化研究系統, OpenClaude](2026/04/2026-04-02.md)
 
 ## Knowledge Base
 
