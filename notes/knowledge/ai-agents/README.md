@@ -17,3 +17,4 @@
 - [2026-03-16: Professor Hung-yi Lee's OpenClaw Projects](../daily-learnings/2026/03/2026-03-16.md)
 - [2026-03-17: OpenClaw Deep Dive - 解剖小龍蝦](../daily-learnings/2026/03/2026-03-17.md)
 - [2026-04-02: Work-in-Midnight Automation](../daily-learnings/2026/04/2026-04-02.md) (OpenClaw automation system)
+- [2026-04-03: Modular System Prompt Architecture](../daily-learnings/2026/04/2026-04-03.md) (AI Coding Framework)
