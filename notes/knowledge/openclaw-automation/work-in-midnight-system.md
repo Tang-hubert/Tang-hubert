@@ -82,6 +82,7 @@ Pending → on-work (research starts) → complete (research finishes)
 - Phase 1: 理解問題（核心問題 / 關鍵術語表 / 研究策略）
 - Phase 2: 深度研究
 - Phase 3: 寫入研究報告（Step 1-4 / 時間線 / 建議方向 / 待續接力章節）
+- Phase 3.5: Trello Move (Dispatcher handles, max 3 retries, 2s interval)
 - Phase 4: 更新 `research_progress.md`
 - Phase 5: Discord 通知
 
@@ -94,3 +95,4 @@ Pending → on-work (research starts) → complete (research finishes)
 ## Related Daily Entries
 - [2026-04-02](../daily-learnings/2026/04/2026-04-02.md)
 - [2026-04-03](../daily-learnings/2026/04/2026-04-03.md) (Dispatcher-Worker pattern, file naming fix)
+- [2026-04-04](../daily-learnings/2026/04/2026-04-04.md) (Dispatcher Phase 3.5 Trello move fix)
