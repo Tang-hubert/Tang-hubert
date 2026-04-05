@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 35 skills |
+| 2026 | [2026.md](2026/2026.md) | 36 skills |
 
 ## Quick Links
 
@@ -64,6 +64,7 @@ daily-learnings/
 - [2026-04-02: Work-in-Midnight 自動化研究系統, OpenClaude](2026/04/2026-04-02.md)
 - [2026-04-03: Work-in-Midnight Dispatcher-Worker 架構, Modular System Prompt](2026/04/2026-04-03.md)
 - [2026-04-04: Work-in-Midnight Dispatcher 架構修復, OpenClaw 版本管理](2026/04/2026-04-04.md)
+- [2026-04-05: Pain Diary × brtclaw 框架, 虛擬世界監控](2026/04/2026-04-05.md)
 
 ## Knowledge Base
 
