@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 39 skills |
+| 2026 | [2026.md](2026/2026.md) | 40 skills |
 
 ## Quick Links
 
@@ -68,11 +68,13 @@ daily-learnings/
 - [2026-04-06: Work-in-Midnight × notes 整合系統, PROJECT.md 構想](2026/04/2026-04-06.md)
 - [2026-04-07: external-user 安全架構, LINE Group Chat 限制](2026/04/2026-04-07.md)
 - [2026-04-08: LINE Group Chat Debug, Discord Channel ID Routing](2026/04/2026-04-08.md)
+- [2026-04-09: Gemma 4 研究, OpenClaw 更新至 2026.4.9](2026/04/2026-04-09.md)
 
 ## Knowledge Base
 
 See also: [notes/knowledge/](../knowledge/) for detailed notes on:
 - AI Agents (core philosophy, context engineering, memory, debugging)
+- AI Models (Gemma 4, quantization techniques)
 
 ---
 
