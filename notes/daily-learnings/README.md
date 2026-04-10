@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 40 skills |
+| 2026 | [2026.md](2026/2026.md) | 41 skills |
 
 ## Quick Links
 
@@ -69,6 +69,7 @@ daily-learnings/
 - [2026-04-07: external-user 安全架構, LINE Group Chat 限制](2026/04/2026-04-07.md)
 - [2026-04-08: LINE Group Chat Debug, Discord Channel ID Routing](2026/04/2026-04-08.md)
 - [2026-04-09: Gemma 4 研究, OpenClaw 更新至 2026.4.9](2026/04/2026-04-09.md)
+- [2026-04-10: GitHub Trending 分析 Cron Job 建立](2026/04/2026-04-10.md)
 
 ## Knowledge Base
 
