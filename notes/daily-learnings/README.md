@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 42 skills |
+| 2026 | [2026.md](2026/2026.md) | 43 skills |
 
 ## Quick Links
 
@@ -71,6 +71,7 @@ daily-learnings/
 - [2026-04-09: Gemma 4 研究, OpenClaw 更新至 2026.4.9](2026/04/2026-04-09.md)
 - [2026-04-10: GitHub Trending 分析 Cron Job 建立](2026/04/2026-04-10.md)
 - [2026-04-11: Work-in-Midnight 系統測試驗證, i-En SQLite 遷移](2026/04/2026-04-11.md)
+- [2026-04-12: Work-in-Midnight Phase 2 mtime 等待機制, Memory Archive](2026/04/2026-04-12.md)
 
 ## Knowledge Base
 
