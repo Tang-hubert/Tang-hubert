@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 44 skills |
+| 2026 | [2026.md](2026/2026.md) | 45 skills |
 
 ## Quick Links
 
@@ -73,6 +73,7 @@ daily-learnings/
 - [2026-04-11: Work-in-Midnight 系統測試驗證, i-En SQLite 遷移](2026/04/2026-04-11.md)
 - [2026-04-12: Work-in-Midnight Phase 2 mtime 等待機制, Memory Archive](2026/04/2026-04-12.md)
 - [2026-04-13: PinchBench v1.2.1 測試, nohup 背景執行](2026/04/2026-04-13.md)
+- [2026-04-14: 每日操作總結 Cron Job 備份邏輯修正](2026/04/2026-04-14.md)
 
 ## Knowledge Base
 
