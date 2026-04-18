@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 47 skills |
+| 2026 | [2026.md](2026/2026.md) | 48 skills |
 
 ## Quick Links
 
@@ -76,6 +76,7 @@ daily-learnings/
 - [2026-04-14: 每日操作總結 Cron Job 備份邏輯修正](2026/04/2026-04-14.md)
 - [2026-04-15: Session Context Monitor 強化, card-index.csv, Slug Naming](2026/04/2026-04-15.md)
 - [2026-04-16: Session Cleanup, card-index.csv, PinchBench vs Main Agent](2026/04/2026-04-16.md)
+- [2026-04-17: gog CLI 完整設定, Hourly Hack DFIR, Cloudflare Rate Limit, 第二顆硬碟記錄](2026/04/2026-04-17.md)
 
 ## Knowledge Base
 
