@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 48 skills |
+| 2026 | [2026.md](2026/2026.md) | 50 skills |
 
 ## Quick Links
 
@@ -77,6 +77,8 @@ daily-learnings/
 - [2026-04-15: Session Context Monitor 強化, card-index.csv, Slug Naming](2026/04/2026-04-15.md)
 - [2026-04-16: Session Cleanup, card-index.csv, PinchBench vs Main Agent](2026/04/2026-04-16.md)
 - [2026-04-17: gog CLI 完整設定, Hourly Hack DFIR, Cloudflare Rate Limit, 第二顆硬碟記錄](2026/04/2026-04-17.md)
+- [2026-04-18: Skill Registry 系統, Cognee MiniMax 整合, 交易資料分析報告](2026/04/2026-04-18.md)
+- [2026-04-19: Cognee 四項功能澄清, MiniMax/LLM/PGVector/Ollama 整合, 系統清理 ~5.6G](2026/04/2026-04-19.md)
 
 ## Knowledge Base
 
