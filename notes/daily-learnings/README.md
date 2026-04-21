@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 50 skills |
+| 2026 | [2026.md](2026/2026.md) | 51 skills |
 
 ## Quick Links
 
@@ -79,6 +79,7 @@ daily-learnings/
 - [2026-04-17: gog CLI 完整設定, Hourly Hack DFIR, Cloudflare Rate Limit, 第二顆硬碟記錄](2026/04/2026-04-17.md)
 - [2026-04-18: Skill Registry 系統, Cognee MiniMax 整合, 交易資料分析報告](2026/04/2026-04-18.md)
 - [2026-04-19: Cognee 四項功能澄清, MiniMax/LLM/PGVector/Ollama 整合, 系統清理 ~5.6G](2026/04/2026-04-19.md)
+- [2026-04-20: Hermes 協作框架 v4.2, Discord Bot @mention 格式, 雙 Agent 通訊層](2026/04/2026-04-20.md)
 
 ## Knowledge Base
 
