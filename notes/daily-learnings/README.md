@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 52 skills |
+| 2026 | [2026.md](2026/2026.md) | 53 skills |
 
 ## Quick Links
 
@@ -81,6 +81,7 @@ daily-learnings/
 - [2026-04-19: Cognee 四項功能澄清, MiniMax/LLM/PGVector/Ollama 整合, 系統清理 ~5.6G](2026/04/2026-04-19.md)
 - [2026-04-20: Hermes 協作框架 v4.2, Discord Bot @mention 格式, 雙 Agent 通訊層](2026/04/2026-04-20.md)
 - [2026-04-21: Hermes 音樂創作, Soundfont/FluidSynth, 音樂理論研究, MEMORY.md 濃縮](2026/04/2026-04-21.md)
+- [2026-04-22: brthermes 通訊修正, Multi-Agent 收斂框架, Discord @mention 格式](2026/04/2026-04-22.md)
 
 ## Knowledge Base
 
