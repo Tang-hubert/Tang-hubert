@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 66 skills |
+| 2026 | [2026.md](2026/2026.md) | 67 skills |
 
 ## Quick Links
 
@@ -95,6 +95,7 @@ daily-learnings/
 - [2026-05-08: Cognee 修復, MEMORY.md 清理, Threads 每日發文系統全重建 (AM/PM/Nightly)](2026/05/2026-05-08.md)
 - [2026-05-09: Cron Jobs 修復 (timeout 300s→600s), Threads AM/PM/Pain Diary timeout 修復](2026/05/2026-05-09.md)
 - [2026-05-10: Pain Diary 頻道確認 (第5次重複), i-En/Threads/Hack Skill 系統正常](2026/05/2026-05-10.md)
+- [2026-05-11: Threads Nightly Review Delivery Bug (sessionKey vs delivery.to), IMAGE 工具功能記錄](2026/05/2026-05-11.md)
 
 ## Knowledge Base
 
