@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 68 skills |
+| 2026 | [2026.md](2026/2026.md) | 69 skills |
 
 ## Quick Links
 
@@ -97,6 +97,7 @@ daily-learnings/
 - [2026-05-10: Pain Diary 頻道確認 (第5次重複), i-En/Threads/Hack Skill 系統正常](2026/05/2026-05-10.md)
 - [2026-05-11: Threads Nightly Review Delivery Bug (sessionKey vs delivery.to), IMAGE 工具功能記錄](2026/05/2026-05-11.md)
 - [2026-05-21: i-En IG Token 全面重建 (Roles Token, Cloudflare Tunnel OAuth, IGAAU Token format)](2026/05/2026-05-21.md)
+- [2026-05-22: Threads 格式升級 (60% engagement with images, dynamic hook, CTA)](2026/05/2026-05-22.md)
 
 ## Knowledge Base
 
