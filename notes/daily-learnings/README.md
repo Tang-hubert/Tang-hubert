@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 70 skills |
+| 2026 | [2026.md](2026/2026.md) | 71 skills |
 
 ## Quick Links
 
@@ -99,6 +99,7 @@ daily-learnings/
 - [2026-05-21: i-En IG Token 全面重建 (Roles Token, Cloudflare Tunnel OAuth, IGAAU Token format)](2026/05/2026-05-21.md)
 - [2026-05-22: Threads 格式升級 (60% engagement with images, dynamic hook, CTA)](2026/05/2026-05-22.md)
 - [2026-05-23: IG Reels 每日音樂推薦自動化系統 (RMS Energy Peak, librosa, Ken Burns, FFmpeg zoompan)](2026/05/2026-05-23.md)
+- [2026-05-24: Cron Job 修復 (agentTurn failover error), GitHub Trending `Hubert 機會` 格式約定](2026/05/2026-05-24.md)
 
 ## Knowledge Base
 
