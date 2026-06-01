@@ -19,7 +19,7 @@ daily-learnings/
 
 | Year | Summary | Skills |
 |------|---------|--------|
-| 2026 | [2026.md](2026/2026.md) | 73 skills |
+| 2026 | [2026.md](2026/2026.md) | 74 skills |
 
 ## Quick Links
 
@@ -102,6 +102,7 @@ daily-learnings/
 - [2026-05-24: Cron Job 修復 (agentTurn failover error), GitHub Trending `Hubert 機會` 格式約定](2026/05/2026-05-24.md)
 - [2026-05-26: i-En 監控 Job 停用 (27fbcaf7 enabled: false, 停用但保留)](2026/05/2026-05-26.md)
 - [2026-05-30: OpenClaw Release Tracker 修復 (isolated agentTurn + 中文翻譯流程, Features/Bug Fixes 完整內容)](2026/05/2026-05-30.md)
+- [2026-05-31: External-User LINE Bot 安全架構 (Cloudflare Worker + https://openclaw.brt1122.com + per-user rate limiting)](2026/05/2026-05-31.md)
 
 ## Knowledge Base
 
